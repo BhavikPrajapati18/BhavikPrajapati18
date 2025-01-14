@@ -8,20 +8,20 @@ I am a developer with a keen interest in coding and problem-solving. While I am 
 
 ## Skills & Technologies
 
-git,html,css,react,nodejs,mongodb,express,cpp,github,appwrite,js,linux,mysql,npm,netlify,py,redux,vercel,unreal,tailwind
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,react,nodejs,mongodb,express,cpp,github,appwrite,js,linux,mysql,npm,netlify,py,redux,vercel,unreal,tailwind&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
-- **[Project Name 1](#)**: A brief description of project 1. ⭐️ 10 stars | Language: JavaScript | Forks: 2 | Issues: 1
-- **[Project Name 2](#)**: A brief description of project 2. ⭐️ 15 stars | Language: Python | Forks: 3 | Issues: 0
-- **[Project Name 3](#)**: A brief description of project 3. ⭐️ 20 stars | Language: Java | Forks: 5 | Issues: 2
+
+
+
 
 ## GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavikprajapati&show_icons=true&theme=radical)
 - Public Repositories: 11
 - Followers: 2
 - Following: 5
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhavikPrajapati&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity
 
