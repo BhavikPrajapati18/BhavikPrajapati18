@@ -27,7 +27,7 @@ I am a developer with a keen interest in coding and problem-solving. While I am 
 ## Recent Activity
 
 - ⭐ Created a new repository: `Kurla-Medical`
-- 🔄 Contributed to `Level Supermind Hackathon Project`
+- 🔄 Contributed to `Level Supermind Hackathon Selection & Finalist Project` 
 
 ## Latest Blog Posts
 
